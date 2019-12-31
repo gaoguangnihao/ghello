@@ -1,0 +1,5 @@
+config GHELLO
+tristate "ghello"
+default y
+help
+this is a hello driver
